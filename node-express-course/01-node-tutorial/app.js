@@ -1,0 +1,5 @@
+console.log('Welcome to Node Tutorial')
+const test = require("./06-alternative-flavor.js")
+const names = require("./04-names")
+console.log(test.singlePerson)
+console.log(names.john)
